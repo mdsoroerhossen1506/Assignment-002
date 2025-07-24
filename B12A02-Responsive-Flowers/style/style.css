@@ -190,6 +190,38 @@ main>section{
 
 
 
+.Join-Section{
+  background-image: url(../assets/news-letter-bg.png);
+  width: 1440px;
+  height: 533px;
+}
+.join-Section-img{
+  text-align: center;
+  /* margin-top: 199px; */
+  padding-top: 199px;
+}
+.Join-Section-title{
+  font-size: 3.2rem;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 1);
+
+}
+.join-button{
+  width: 830px;
+  height: 50px;
+}
+#input-Subscribe{
+  width: 644px;
+  height: 50px;
+}
+.button-subscribe{
+  width:186px;
+  height: 50px;
+}
+
+
+
+
 
 
 
